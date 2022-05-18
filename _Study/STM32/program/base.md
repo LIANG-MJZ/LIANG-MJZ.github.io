@@ -1,10 +1,10 @@
 # STM32_Program
 
 # GPIO
- - [⏩代码](_Study\STM32\program\gpio.md)
+[⏩代码](_Study\STM32\program\gpio.md)
 
 # USART
- - [⏩代码](_Study\STM32\program\usart.md)
+[⏩代码](_Study\STM32\program\usart.md)
 
 # EXTI
 
@@ -18,7 +18,7 @@
 
 ## 内部时钟
 
-- [⏩代码](_Study\STM32\program\timer.md)
+[⏩代码](_Study\STM32\program\timer.md)
 
 1. `RCC_APB1PeriphClockCmd(RCC_APB1Periph_TIMx, ENABLE); //使能或者失能 APB1 TIMx外设时钟`
 2. `TIM_InternalClockConfig(TIMx); //设置 TIMx 内部时钟开启时钟 `
@@ -35,7 +35,7 @@
 
 ## 外部时钟
 
-- [⏩代码](_Study\STM32\program\timer1.md)
+[⏩代码](_Study\STM32\program\timer1.md)
 
 1. `RCC_APB1PeriphClockCmd(RCC_APB1Periph_TIMx, ENABLE); //使能或者失能 APB1 TIMx外设时钟`
 2. `RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOx, ENABLE); //使能或者失能 APB2 GPIOx外设时钟`
@@ -56,7 +56,7 @@
 
 # PWM
 
-- [⏩代码](_Study\STM32\program\pwm.md)
+[⏩代码](_Study\STM32\program\pwm.md)
 
 1. `RCC_APB1PeriphClockCmd(RCC_APB1Periph_TIMx, ENABLE); //使能或者失能 APB1 TIMx外设时钟`
 
@@ -85,7 +85,7 @@
 
 
 # ADC
- - [⏩代码](_Study\STM32\program\adc.md)
+[⏩代码](_Study\STM32\program\adc.md)
 
 
 
