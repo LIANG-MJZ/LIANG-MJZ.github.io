@@ -1,6 +1,6 @@
 # 命名解释
 
-![基本](__Photo\stm\基本认识.png)
+![基本](_Photo\stm\基本认识.png)
 
 <!-- # 时钟图
 ![时钟图](_Photo\stm\时钟图.png)
