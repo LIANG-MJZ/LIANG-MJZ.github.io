@@ -1,5 +1,5 @@
 # 外部定时器
-[代码⏪](_Study\STM32\program\base.md)
+[代码⏪](_Study\STM32\program\A_base.md)
 
 ```c
 void Timer_Init(void)
