@@ -1,6 +1,6 @@
 #
 
-# [嵌入式](/_Study/STM32/1/photo/base.md)
+# [嵌入式](_Study\STM32\1\photo\mingzi.md)
 
 ---
 
