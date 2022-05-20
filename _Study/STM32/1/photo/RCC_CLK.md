@@ -1,3 +1,1 @@
-# 时钟图
-
-![1](rcc_tree.png)
+![大厦](/_Study/STM32/1/photo/rcc_tree.png)

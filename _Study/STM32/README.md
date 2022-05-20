@@ -1,6 +1,6 @@
 #
 
-# [嵌入式](/_Study/STM32/1/photo.md)
+# [嵌入式](/_Study/STM32/1/photo/base.md)
 
 ---
 
@@ -104,7 +104,6 @@
 
 - 通用同步异步收发器（URART）利用分数波特率发生器提供宽泛的波特率选择。
   - 支持单向通信，和全，半双工通信。双向通信至少需要两个引脚（RX ：receive，TX : trasport）。
-  ![1](_Photo\stm\usart电平标准.png)
 
 ---
 ---
